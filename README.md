@@ -35,7 +35,7 @@ To install Garuda DDoS Tool on Termux or Kali Linux, follow these steps:
 
 4. Run the main.py script using Python 3:
    ```
-   python3 main.py
+   python2 main.py
    ```
 
 ---
