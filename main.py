@@ -31,7 +31,7 @@ if __name__ == "__main__":
     print_banner_garuda()
 
 #Banner End
-print "\033[1;40mAuthor    : kinghacker0\033[1;40m "
+print "\033[1;40mAuthor    : darkx\033[1;40m "
 print "\033[1;40mGithub    : https://github.com/mrdarkx05\033[1;40m "
 print "\033[1;40mInstagram : https://www.instagram.com/darkx.ic\033[1;40m"
 print     
